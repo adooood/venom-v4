@@ -2,7 +2,7 @@
 #SCRIPT BY VENOMxCRAZY
   
 #Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7544146441:AAEdVHrw_wYBUzY-tvqnXvPT9aV4zdkWGQc")
+BOT_TOKEN=("7894774804:AAEFYbcZyQRrNJYyG7NLpEd7eNOrZsnP4AE")
 
   #Enter Your telegram username here without @
 OWNER_USERNAME=("anshush21887")
